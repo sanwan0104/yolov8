@@ -1,4 +1,7 @@
-![image](https://github.com/user-attachments/assets/ad43f46c-e4cb-4fab-8833-6786cc31d92a)新能源数据处理文件夹下是把2019CCPD命名格式转为yolo格式
+新能源数据处理文件夹下是把2019CCPD命名格式转为yolo格式
+![image](https://github.com/user-attachments/assets/ad43f46c-e4cb-4fab-8833-6786cc31d92a)
+datasets 为数据集 分为训练 预测 验证
+
 
 
 1. **YOLOv8**：
