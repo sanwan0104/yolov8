@@ -1,5 +1,5 @@
 新能源数据处理 文件夹下是把2019CCPD命名格式转为yolo格式
-![image](https://github.com/user-attachments/assets/ad43f46c-e4cb-4fab-8833-6786cc31d92a)
+                                                                            ![image](https://github.com/user-attachments/assets/ad43f46c-e4cb-4fab-8833-6786cc31d92a)
 
 datasets 为数据集 分为训练 预测 验证
 run 里面是预测和训练结果，模型训练好的权重也在里面
